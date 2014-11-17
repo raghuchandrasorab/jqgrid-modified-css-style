@@ -1,0 +1,46 @@
+.ui-jqgrid-bdiv{
+	height:auto !important;
+	height: 270px !important;
+	width: 100% !important;
+	
+	
+}
+.ui-jqgrid-view{
+	width: 100% !important;
+}
+.ui-widget {
+	max-height: 410px !important;
+	overflow-y: auto !important;
+	width: 1300px !important;
+	background-color: #ccc;
+	box-shadow: 2px 1px 8px 2px #D4D4D4;
+}
+.ui-state-default .ui-jqgrid-hdiv{
+	width: 100% !important;
+}
+
+.ui-widget-header {
+	color: #0B0B0B;
+	font-weight: bold;
+	font-size: 14px;
+	border: 1px solid rgba(168, 165, 165, 1);
+	background: none repeat scroll 0% 0% #D2CBCB;
+}
+.ui-jqgrid .ui-jqgrid-titlebar {
+    padding: 10px;
+}
+.ui-jqgrid .ui-jqgrid-titlebar-close span {
+    display: block;
+     margin: 0px 1px 0px 2px;
+}
+
+.ui-jqgrid .ui-jqgrid-titlebar-close {
+    margin: -10px 5px -1px;
+
+ }
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    font-weight: normal;
+    color: #555;
+    background: #D2CBCB;
+    border: 1px solid rgba(164, 159, 159, 1);
+}
